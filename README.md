@@ -8,12 +8,6 @@
 - 📫 How to reach me:[linkedIn](https://www.linkedin.com/in/mateus-santos-973634197/)
 
 
-**Languages and tools:**
-
-
-<img align="left" height="20" src="https://github.dev/MateusSantosRPs/MateusSantosRPs/blob/691d4bec23d5a07b67d824d0472524ac58ed460f/imgs/nodejs.png">
-<img align="left" height="20" src="https://github.dev/MateusSantosRPs/MateusSantosRPs/blob/691d4bec23d5a07b67d824d0472524ac58ed460f/imgs/javascript.png">
-<img height="30" src="https://raw.githubusercontent.com/MateusSantosRPs/MateusSantosRPs/main/images/linux.png">
 
 
 
@@ -37,4 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+--> 
