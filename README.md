@@ -5,6 +5,7 @@
 **About me:**
 - 💻 I'm developer
 - 📝 I'm majoring in computer science
+- 👯 I'm looking to collaborate on open source projects
 - 📫 How to reach me:[linkedIn](https://www.linkedin.com/in/mateus-santos-973634197/), [twitter](https://twitter.com/MateusSantosRPs)
 
 
