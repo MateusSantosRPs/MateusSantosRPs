@@ -10,7 +10,7 @@
 - 📫 How to reach me: <p align-itens ="center">[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/mateus-santos-973634197/) [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/MateusSantosRPs)</p>
 
 
-## :eyes: &nbsp;Tech Stack
+## 📚 &nbsp;Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
