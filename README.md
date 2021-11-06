@@ -1,4 +1,4 @@
-# *Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mateus Santos.*
+<h1 align="center"><i> Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mateus Santos.<i> </h1>
 
 
 
@@ -24,8 +24,19 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mateussantosrps&show_icons=true&theme=dark" alt="mateussantosrps's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussantosrps&layout=compact&theme=dark" alt="mateussantosrps's most languages"/>
+  
+<a href="https://github.com/MateusSantosRPs/"/> 
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=mateussantosrps&show_icons=true&theme=dark" alt="mateussantosrps's stats"/>
+</a>
+<a href="https://github.com/MateusSantosRPs/"/> 
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussantosrps&layout=compact&theme=dark" alt="mateussantosrps's most languages"/>
+</a>
+<a href="https://github.com/MateusSantosRPs/"/> 
+  <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateussantosrps&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=#ff5722&ring=db1cff&stroke=FFFFFFFF""/>
+</a>
+
+
+
 </p>
 
 
