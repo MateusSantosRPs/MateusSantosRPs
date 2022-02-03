@@ -22,22 +22,7 @@
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-  
-<a href="https://github.com/MateusSantosRPs/"/> 
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=mateussantosrps&show_icons=true&theme=dark" alt="mateussantosrps's stats"/>
-</a>
-<a href="https://github.com/MateusSantosRPs/"/> 
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussantosrps&layout=compact&theme=dark" alt="mateussantosrps's most languages"/>
-</a>
-<a href="https://github.com/MateusSantosRPs/"/> 
-  <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateussantosrps&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=#ff5722&ring=db1cff&stroke=FFFFFFFF""/>
-</a>
-
-
-
-</p>
+ </p>
 
 
 
