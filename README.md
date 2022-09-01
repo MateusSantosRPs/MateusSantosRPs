@@ -1,4 +1,4 @@
-<h1 align="center"><i> Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mateus Santos.<i> </h1>
+<h1 align="center"><i> Olá eu sou o Mateus Santos.<i> </h1>
 
 
 
