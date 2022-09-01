@@ -4,7 +4,7 @@
 
 **About me:**
 - 💻 I'm developer junior
-- :mortar_board: I'm majoring in computer science
+- :mortar_board: I have a degree in computer science
 - 👯 I'm looking to collaborate on open source projects
 - 😄 Pronouns: Him / Mr
 - 📫 How to reach me: <p align-itens ="center">[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/mateus-santos-973634197/) [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/MateusSantosRPs)</p>
