@@ -26,11 +26,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp; 
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)&nbsp; 
 <br><br>
-<h2> Github Stats: </h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MateusSantosRPs&theme=city-lights&border_radius=3.4&locale=pt_BR)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusSantosRPs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
