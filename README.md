@@ -13,7 +13,7 @@
                 [![LinkedIn](https://img.shields.io/badge/LinkedIn-060606?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-santos-973634197/) 
                 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/_hunter77/) 
                 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/MateusSantosRPs)
-                <a href="https://t.me/USERNAME" target="_blank"><img src="https://img.shields.io/badge/Telegram-001?style=for-the-badge&logo=telegram&logoColor=white"></a>
+                <a href="https://t.me/MateusSantosRPs" target="_blank"><img src="https://img.shields.io/badge/Telegram-001?style=for-the-badge&logo=telegram&logoColor=white"></a>
             </p>
 
 
