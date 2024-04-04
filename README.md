@@ -25,8 +25,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![MS Azure]( https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 <br></br>
-
-
+## 📚 &nbsp;Github Stats
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateusSantosRPs&theme=dark" />
+</p>
+<br></br>
 
 
 
